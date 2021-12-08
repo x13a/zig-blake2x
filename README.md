@@ -4,4 +4,4 @@
 
 ## Reference
 
-[go-crypto](https://github.com/golang/crypto)
+[go/crypto](https://github.com/golang/crypto)
